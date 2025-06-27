@@ -8,7 +8,7 @@ This project implements a system to find alternative routes in road networks usi
 - Traffic simulation with vehicle speed adjustments.
 - OpenGL visualization of the road network and vehicle movements.
 
-## Requirements
+## Requirement
 - C++17
 - OpenGL
 - GLUT
